@@ -10,8 +10,8 @@ GO
 
 -- Insere dois filmes na tabela Filmes
 INSERT INTO Filmes	(Titulo, IdGenero)
-VALUES				('A vida é bela', 2)
-					,('Rambo', 1);
+VALUES				('Adoráveis Mulheres', 2)
+					,('Predador', 1);
 GO
 
 -- Insere dois novos usuários
